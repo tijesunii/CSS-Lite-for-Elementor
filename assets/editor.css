@@ -1,0 +1,9 @@
+/**
+ * Small editor polish for the CSS Lite control.
+ * Elementor owns the main UI, so this file only improves readability.
+ */
+.elementor-control-eccl_custom_css textarea,
+.elementor-control-eccl_custom_css .ace_editor {
+	min-height: 220px;
+}
+
